@@ -1,6 +1,6 @@
 // Enviando un salido desde java
 
-public class SaludarJava {
+public class SaludarJava_02 {
 
     public static void main(String arg[]){
 

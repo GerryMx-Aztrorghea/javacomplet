@@ -1,6 +1,6 @@
 // Mi clase de Java
 
-public class HolaMundo {
+public class HolaMundo_01 {
 
     public static void main(String args[]){
 
