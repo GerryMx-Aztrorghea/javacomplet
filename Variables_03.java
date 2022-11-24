@@ -22,7 +22,5 @@ public class Variables_03{
 
         nombre = "Pedro";
         System.out.println("Imprimiendo el nuevo valor de la variable texto: " + nombre);
-
-        
     }
 }
