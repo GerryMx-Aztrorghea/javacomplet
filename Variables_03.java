@@ -22,5 +22,12 @@ public class Variables_03{
 
         nombre = "Pedro";
         System.out.println("Imprimiendo el nuevo valor de la variable texto: " + nombre);
+
+        //inferir una variable por java
+        var nuevo = 12;
+        System.out.println("Java esta inferiendo el tiempo de variable: " + nuevo);
+
+        var apellido = "Lopez";
+        System.out.println("Java esta infiriendo el tipo de variable: "+ apellido);
     }
 }
